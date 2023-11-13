@@ -1,5 +1,5 @@
-# netflixAnalysis
+# Netflix Data Analysis
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mikecroucher/netflixAnalysis&file=NetflixAnalysis.mlx)
+Click on the following link to start a MATLAB Online session:
 
-This is the analysis we looked at in class.
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ooominds/Netflix_data_analysis&file=NetflixAnalysis.mlx)
